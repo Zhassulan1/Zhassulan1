@@ -8,4 +8,4 @@ Backend Developer / DevOps at KOZ AI, Almaty. I write Python (FastAPI) and Go se
 - [instant](https://github.com/Zhassulan1/instant): Go microservices behind a Consul-based API gateway, an idempotent Kafka consumer with retries and a dead-letter topic, Kafka on RKE2. Gateway, consumer and all infrastructure are mine (team of 4).
 - [Secure-Container](https://github.com/Zhassulan1/Secure-Container): a hardened container image. Static non-root build, all capabilities dropped, seccomp, no-new-privileges; Trivy, Semgrep and SonarCloud in CI.
 
-zhkainazarov@gmail.com | [LinkedIn](https://www.linkedin.com/in/zhkainazarov)
+[LinkedIn](https://www.linkedin.com/in/zhkainazarov)
